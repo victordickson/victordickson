@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello👋 I'm Dickson Victor 👨🏻‍💻
 
-I am a DevOps Engineer from Nigeria and a YouTuber [@techcruxlearning6553](https://www.youtube.com/@techcruxlearning6553)
+I am a DevOps Engineer/ Cloud Solutions Architect and a YouTuber [@techcruxlearning6553](https://www.youtube.com/@techcruxlearning6553)
 
 ### Currently I am working with ...
 
